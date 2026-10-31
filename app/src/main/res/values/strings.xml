@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Iraq Alarm</string>
+    <string name="alarm_channel_name">Alarm Notification</string>
+    <string name="alarm_channel_desc">Notifications for triggered alarms</string>
+</resources>

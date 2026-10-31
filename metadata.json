@@ -1,0 +1,6 @@
+{
+  "name": "Iraq Alarm",
+  "description": "Smart alarm clock styled in authentic colors of the Iraq flag with Baghdad time, wake-up challenges, snooze, and vibrant Iraqi themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
